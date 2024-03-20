@@ -1,2 +1,6 @@
 # FULLSTACK
-git repo
+git rep
+
+This is my github Practice.
+<br>
+<b>KUKKADAPU SAINATH<b>
